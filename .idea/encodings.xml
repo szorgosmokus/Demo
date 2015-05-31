@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/About.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Aktivita1.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Aktivita2.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Aktivita_Settings.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/FragmentDrawer.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Obsah.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Obsah_Detail.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/activities/Settings.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/adapter/GridAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/adapter/NavigationDrawerAdapter.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/other/NavDrawerItem.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/other/RecyclerItemClickListener.java" charset="windows-1250" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
